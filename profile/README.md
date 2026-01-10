@@ -11,9 +11,9 @@
   From voice agents to dashboards, we design, build, and operate reliable data systems end-to-end.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./hero-image.png" width="75%" alt="Alshival hero image" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://alshival.ai">Website</a> •
