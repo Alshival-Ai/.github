@@ -43,6 +43,14 @@ We start with a short discovery to define goals, success metrics, data access, a
 From there we run in weekly sprints with clear deliverables (dashboards, models, APIs).
 You’ll get demos at milestones — plus artifacts you can keep: code, docs, and deployment instructions.
 
+## Agent-ready documentation
+
+We also publish a reusable [`AGENTS.md`](./AGENTS.md) base that other organizations can adapt for their own repositories and agent workflows.
+
+We keep that file intentionally short and operational instead of turning it into full project documentation. `AGENTS.md` works best as a stable instruction contract for coding and project-management agents, while the GitHub Wiki is where we maintain richer, changing technical and product context.
+
+Our organization feeds GitHub Wiki content into project-management agents so they can answer technical and user questions about the codebase or the application with current repo-specific context.
+
 ## Security & sensitive data
 
 We follow least-privilege access, encryption in transit/at rest, and environment isolation.
