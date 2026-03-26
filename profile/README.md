@@ -31,11 +31,13 @@ Alshival.Ai is a dev workshop based in the Rio Grande Valley. We build productio
 
 Our work spans voice agents, internal copilots, machine learning systems, dashboards, data platforms, and secure cloud deployments.
 
-## Alshival Assistant
+## DevTools powered by our Alshival Assistant
 
-We are building and running our self-deployed [Alshival assistant](https://github.com/Alshival-Ai/alshival), an internal and customer-facing agent that can answer questions using GitHub Enterprise context and help teams navigate engineering work.
+We are building [DevTools](https://github.com/Alshival-Ai/DevTools), powered by our self-deployed [Alshival assistant](https://github.com/Alshival-Ai/alshival), to help teams navigate engineering work with GitHub Enterprise context and operational visibility.
 
-Alshival also integrates with Asana for project management and supports operational workflows such as resource health monitoring, alerts for APIs and virtual machines, cloud logs, cloud alerts, and GitHub-connected automation.
+DevTools includes resource monitoring and uses the `alshival` and `alshival-nodejs` SDKs for cloud logging and alerts.
+
+It also integrates with Asana for project management and supports workflows such as alerts for APIs and virtual machines, cloud logs, cloud alerts, and GitHub-connected automation.
 
 On our site, Alshival also helps visitors book appointments and route questions to the Data Team.
 
