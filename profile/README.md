@@ -84,16 +84,7 @@ We also support HIPAA-aware delivery patterns, including GPT-powered copilots un
 - **NHTSA Complaints Dashboard** - https://alshival.ai/publications/nhtsa-complaints-dashboard/
 - **AlshiCrypt (encryption protocol)** - https://alshival.ai/publications/alshicrypt/
 
-## The Data Team
-
-- **Samuel** - Chief Data Scientist
-- **Salvador** - Chief of Operations
-- **Ruben** - Developer / Project Manager
-- **Rafael** - The Intern
-- **Juan** - Field Tech
-- **Codex** - Fastest coder on the team
-
-**Contact:** support@alshival.ai • +1 (956) 420-6769  
+**Contact:** support@alshival.ai
 Need a human follow-up? Ask Alshival to loop in the Data Team.
 
 ---
